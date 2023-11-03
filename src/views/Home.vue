@@ -5,9 +5,9 @@
     <div class="container my-5">
         <div class="card border-0 shadow-sm">
             <div class="card-body justify-content-center">
-                <h2>Halo semuanya!</h2>
+                <h2 class="mb-3">Halo semuanya!</h2>
                 <p>Ini adalah proyek untuk tes koding web developer Qtasnim</p>
-                <p>Dalam tes ini terdapat beberapa halaman master data yang bisa diakses pada link berikut:</p>
+                <p>Berikut merupakan informasi pembuat:</p>
                 <table class="table table-borderless">
                     <tr>
                         <th class="col-1">Nama</th>
